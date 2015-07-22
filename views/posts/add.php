@@ -8,9 +8,9 @@
   </div>
   <label class="control-label" for="inputCate">Mục đăng</label>
   <select class="form-group" name="category_id">
-  <option>10</option>
-  <option>11</option>
-  <option>12</option>
+  <option>Blog_A</option>
+  <option>Blog_B</option>
+  <option>Blog_C</option>
 </select>
   <div class="form-group">
     <label class="control-label" for="inputTotal">Nội dung bài viết</label>
